@@ -29,7 +29,7 @@ public class Mock {
                         .artistDetail(
                                 ArtistDetail.builder()
                                         .type("solo")
-                                        .image("resim yok")
+                                        .image("https://i.pinimg.com/originals/b4/7e/e1/b47ee12d7629a13185d3de575e21275c.jpg")
                                         .name("TEST")
                                         .genres(genrelist)
                                         .country("TR")
